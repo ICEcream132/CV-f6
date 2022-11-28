@@ -24,17 +24,18 @@
 .img {
     width: 85px;
     border-radius: 12px 1px 1px 12px;
+    margin-left: -1px;
     text-align: right;
     height: 113px;
     margin-top: -1px;
 }
 
 .text {
-    margin-top: 15px;
+    margin-top: 30px;
 }
 
 body {
-    margin: 50px;
+    margin: 100px;
     font-size: 18px;
     font-weight: lighter;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -42,7 +43,7 @@ body {
 
 text {
     border: 2px solid rgb(0, 0, 0);
-    margin-left: 230px;
+    margin-left: 600px;
     padding-right: 5px;
     background-color: rgba(172, 70, 224, 0.814);
     /* text-shadow: 4px 2px rgb(255, 255, 255); */
